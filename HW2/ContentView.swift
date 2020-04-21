@@ -1,9 +1,9 @@
 //
 //  ContentView.swift
-//  HW2
+//  myFGO
 //
-//  Created by WRYYYY on 2020/4/15.
-//  Copyright © 2020 WRYYYY. All rights reserved.
+//  Created by User19 on 2019/10/5.
+//  Copyright © 2019 19. All rights reserved.
 //
 
 import SwiftUI

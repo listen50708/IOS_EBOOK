@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  HW2
+//  myFateGame
 //
-//  Created by WRYYYY on 2020/4/15.
-//  Copyright © 2020 WRYYYY. All rights reserved.
+//  Created by User15 on 2019/10/14.
+//  Copyright © 2019 557021. All rights reserved.
 //
 
 import UIKit
@@ -11,7 +11,10 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    
+    @IBAction func learnSwift(_sender: Any){
+        print("learnSwift")
+    }
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
